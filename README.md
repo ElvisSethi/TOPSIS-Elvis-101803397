@@ -1,8 +1,8 @@
-# TOPSIS-Anshul-101803408
+# TOPSIS-Elvis-101803397
 
 
 
-TOPSIS-Anshul-101803408 is a great resource to generate TOPSIS score as well as Ranks for various model parameters, to chose the best model for the production.
+TOPSIS-Elvis-101803397 is a great resource to generate TOPSIS score as well as Ranks for various model parameters, to chose the best model for the production.
 
 
 ### User Manual
@@ -31,7 +31,7 @@ variable.write_file()
 #### License
 
 MIT License
-Copyright (c) 2018 Anshul Jain
+Copyright (c) 2018 Elvis Sethi
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
